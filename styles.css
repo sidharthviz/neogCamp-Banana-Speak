@@ -3,7 +3,7 @@
 body {
     margin: 0%;
     background-color: white;
-    font-family: 'kalam', cursive;
+    font-family: 'poppins', cursive;
   }
 
 body{
@@ -43,6 +43,7 @@ body{
 
 #btn-translate{
     background-color: #fde68a;
+    cursor: pointer;
     border: none;
     padding-right: 4rem;
     margin: 0.5rem 2rem;
