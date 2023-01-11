@@ -42,6 +42,7 @@ body{
 }
 
 #btn-translate{
+    cursor: pointer;
     background-color: #fde68a;
     cursor: pointer;
     border: none;
